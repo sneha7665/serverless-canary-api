@@ -1,0 +1,16 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate*
+
+# Build artifacts
+lambda.zip
+
+# Test files
+test.json
+output.json
+
+# AWS / secrets
+*.pem
+*.key
