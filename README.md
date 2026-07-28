@@ -306,7 +306,8 @@ CloudWatch continuously monitors:
 
 ## Lambda Versions
 
-<img src="images/lambda-versions.png">
+<img width="1600" height="668" alt="images-lambda-versions" src="https://github.com/user-attachments/assets/a65803d5-cc7b-41af-b70a-3e39150d1b15" />
+
 
 ---
 
