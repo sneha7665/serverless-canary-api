@@ -313,37 +313,43 @@ CloudWatch continuously monitors:
 
 ## Lambda Alias (Live)
 
-<img src="images/lambda-alias.png">
+<img width="1600" height="665" alt="images-lambda-alias" src="https://github.com/user-attachments/assets/fef949d7-3cc9-46d2-bfaa-e8a2cf64d18e" />
+
 
 ---
 
 ## API Gateway
 
-<img src="images/api-gateway.png">
+<img width="1600" height="662" alt="images-api-gateway" src="https://github.com/user-attachments/assets/72d7eeeb-b0a0-468e-b5f8-e6edb016356b" />
+
 
 ---
 
 ## API Resources
 
-<img src="images/api-resources.png">
+<img width="1600" height="669" alt="images-api-resources" src="https://github.com/user-attachments/assets/f3a0359c-8d26-434f-95a5-6448a19c1143" />
+
 
 ---
 
 ## Amazon Cognito User Pool
 
-<img src="images/cognito-overview.png">
+<img width="1600" height="661" alt="images-cognito-overview" src="https://github.com/user-attachments/assets/fe350a97-ce15-4e4d-ad6e-7950b875b94e" />
+
 
 ---
 
 ## Cognito Users
 
-<img src="images/cognito-users.png">
+<img width="1600" height="664" alt="images-cognito-users" src="https://github.com/user-attachments/assets/b35a68da-cd4b-419d-b710-b65cb524de76" />
+
 
 ---
 
 ## CloudWatch Alarms
 
-<img src="images/cloudwatch-alarms.png">
+<img width="1600" height="670" alt="images-cloudwatch-alarms" src="https://github.com/user-attachments/assets/178af50d-1762-463e-8309-6513da7a8232" />
+
 
 ---
 
@@ -356,7 +362,8 @@ Shows:
 - JWT Authentication
 - Protected API Access
 
-<img src="images/terminal-demo.png">
+<img width="1600" height="842" alt="images-terminal-demo  jpeg" src="https://github.com/user-attachments/assets/639183a4-2962-41db-8020-fa6f24a8857d" />
+
 
 ---
 
